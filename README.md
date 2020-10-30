@@ -1,2 +1,3 @@
-# Chat_Scket.io
-Chat básico con node.js y socket.io
+# APP Chat Basico En Linea
+## Integrantes
+- Juan Gabriel Salgado Bolaño
