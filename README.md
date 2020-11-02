@@ -2,6 +2,8 @@
 ## Integrantes
 - Juan Gabriel Salgado Bolaño
 - Pedro Joaquin Florez Villadiego
+- Alejandro Avila Buelvas 
+
 
 
 
