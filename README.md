@@ -5,6 +5,4 @@
 
 
 
-#### Recuerde Ejecutar El Comando
-'' npm i''   
-### Para Poder Ejecutar El Proyecto
+
