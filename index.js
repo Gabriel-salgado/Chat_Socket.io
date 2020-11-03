@@ -11,9 +11,11 @@ app.get('/', (req, res) => {
 });
 
 io.on('connection', (socket) => {
-    console.log('Un cliente nuevo se ha conectado')
+    console.log('cliente conectado')
     socket.on('chat message', (msg) => {
         console.log('message: ' + msg);
+        io.emit('chat message', msg);
+      });
   });
   
 
